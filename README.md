@@ -53,9 +53,11 @@
 
 ## Containers & Orchestration
 
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [Docker](https://www.docker.com/) - Build, ship, and run applications in containers.
 * [Kubernetes](https://kubernetes.io/) - Container orchestration system.
 * [Helm](https://helm.sh/) - Kubernetes package manager.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift) - Enterprise Kubernetes platform.
 * [Nomad](https://www.nomadproject.io/) - Simple and flexible workload orchestrator.
 * [Rancher](https://rancher.com/) - Kubernetes management platform.
