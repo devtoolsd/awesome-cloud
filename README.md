@@ -152,6 +152,7 @@
 * [VMware Tanzu](https://tanzu.vmware.com/) - Build, run, manage across clouds.
 * [HashiCorp Consul](https://www.consul.io/) - Multi-cloud service discovery & networking.
 * [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for multi-cloud workflows.
+* [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability across edge and cloud clusters.
 
 ---
 
