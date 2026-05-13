@@ -96,6 +96,8 @@
 * [OpenTelemetry](https://opentelemetry.io/) - Observability framework for cloud-native software.
 * [ELK Stack](https://www.elastic.co/what-is/elk-stack) - Elasticsearch, Logstash, and Kibana.
 * [Loki](https://grafana.com/oss/loki/) - Prometheus-style log aggregation.
+* [Middleware](https://middleware.io/) - Full-stack Observability With AI SRE Agent
+
 
 ---
 
