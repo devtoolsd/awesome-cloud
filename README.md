@@ -119,6 +119,7 @@
 * [Cassandra](https://cassandra.apache.org/) - NoSQL database for scalability.
 * [MinIO](https://min.io/) - High-performance object storage.
 * [Ceph](https://ceph.io/) - Distributed object, block, and file storage.
+* [HuskHoard](https://huskhoard.com) - An automated, transparent data-tiering engine for Linux that archives data to LTO,S3,Disk.
 
 ---
 
