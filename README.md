@@ -125,6 +125,7 @@
 ## Security
 
 * [HashiCorp Vault](https://www.vaultproject.io/) - Secrets management and data protection.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 * [Trivy](https://github.com/aquasecurity/trivy) - Security scanner for containers and IaC.
 * [Falco](https://falco.org/) - Runtime security for Kubernetes.
 * [AWS Security Hub](https://aws.amazon.com/security-hub/) - Centralized security findings.
