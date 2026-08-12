@@ -36,6 +36,7 @@
 * [Vultr](https://www.vultr.com/) - Global cloud hosting.
 * [Hetzner Cloud](https://www.hetzner.com/cloud) - Cost-effective cloud in Europe.
 * [Flying Circus](https://flyingcircus.io/) - NixOS-powered cloud for IaC and managed application operations.
+* [Hikube](https://hikube.cloud/) - Swiss sovereign cloud with managed Kubernetes, GPU, and databases replicated across three Swiss datacenters.
 
 ---
 
