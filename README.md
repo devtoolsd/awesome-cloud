@@ -137,6 +137,7 @@
 ## Cost Management
 
 * [Kubecost](https://www.kubecost.com/) - Kubernetes cost monitoring.
+* [CloudBurn](https://github.com/towardsthecloud/cloudburn) - Deterministic AWS cost checks for Terraform, CloudFormation, and live resources.
 * [Infracost](https://www.infracost.io/) - Cost estimates for Terraform.
 * [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) - Analyze AWS costs.
 * [Azure Cost Management](https://azure.microsoft.com/en-us/services/cost-management/) - Track and control Azure spending.
