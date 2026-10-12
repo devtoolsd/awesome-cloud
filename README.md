@@ -96,6 +96,7 @@
 * [OpenTelemetry](https://opentelemetry.io/) - Observability framework for cloud-native software.
 * [ELK Stack](https://www.elastic.co/what-is/elk-stack) - Elasticsearch, Logstash, and Kibana.
 * [Loki](https://grafana.com/oss/loki/) - Prometheus-style log aggregation.
+* [SolidPing](https://www.solidping.io/) - Open-source uptime and synthetic monitoring with status pages and alerting.
 
 ---
 
