@@ -84,6 +84,7 @@
 * [Flux](https://fluxcd.io/) - GitOps for Kubernetes.
 * [Spinnaker](https://spinnaker.io/) - Continuous delivery platform.
 * [Tekton](https://tekton.dev/) - Kubernetes-native CI/CD system.
+* [Latchkey](https://latchkey.dev/) - Self-healing GitHub Actions runners for coding agents.
 
 ---
 
