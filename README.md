@@ -141,6 +141,7 @@
 * [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/) - Analyze AWS costs.
 * [Azure Cost Management](https://azure.microsoft.com/en-us/services/cost-management/) - Track and control Azure spending.
 * [GCP Cost Tools](https://cloud.google.com/products/calculator) - GCP pricing calculator.
+* [CloudWorth](https://www.getcloudworth.com/) - Detects VPS/cloud server overselling (CPU steal time, disk cache fakery, CPU generation) in ~10s; FinOps audit report. Freemium, not open source.
 
 ---
 
