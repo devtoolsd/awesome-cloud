@@ -80,6 +80,7 @@
 * [GitHub Actions](https://github.com/features/actions) - Automate workflows directly in GitHub.
 * [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) - Built-in CI/CD for GitLab.
 * [CircleCI](https://circleci.com/) - Fast, flexible CI/CD platform.
+* [Buddy](https://buddy.works) - CI/CD workflows, sandboxes and hosting for AI coding agents.
 * [Argo CD](https://argo-cd.readthedocs.io/) - Declarative GitOps CD for Kubernetes.
 * [Flux](https://fluxcd.io/) - GitOps for Kubernetes.
 * [Spinnaker](https://spinnaker.io/) - Continuous delivery platform.
