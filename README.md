@@ -152,6 +152,7 @@
 * [VMware Tanzu](https://tanzu.vmware.com/) - Build, run, manage across clouds.
 * [HashiCorp Consul](https://www.consul.io/) - Multi-cloud service discovery & networking.
 * [DataRaven](https://dataraven.io/) - Managed cloud object storage transfers for multi-cloud workflows.
+* [NodeRings](https://noderings.com/) - Marketplace and console to discover, deploy, and manage compute across independent hosting providers.
 
 ---
 
