@@ -36,6 +36,7 @@
 * [Vultr](https://www.vultr.com/) - Global cloud hosting.
 * [Hetzner Cloud](https://www.hetzner.com/cloud) - Cost-effective cloud in Europe.
 * [Flying Circus](https://flyingcircus.io/) - NixOS-powered cloud for IaC and managed application operations.
+* [Nife](https://nife.io) - Deploy apps across cloud, edge and private infrastructure from one control plane.
 
 ---
 
